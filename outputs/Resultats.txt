@@ -1,0 +1,19 @@
+Dichromate de Potassium 294.2
+Dihydrogène 2.0
+Dioxygène 32.0
+Eau 18.0
+Dioxyde de carbon 44.0
+Monoxyde de carbone 28.0
+Diazote 28.0
+Dioxyde d'azote 46.0
+Dichlore 70.9
+Dibrome 159.8
+Méthane 16.0
+Ammoniac 17.0
+Ammoniaque 17.0
+Glucose 180.1
+Saccharose 342.1
+Acide éthanoïque (acétique) 60.0
+Benzène 78.1
+Acide benzoïque 122.1
+Glycérol 92.0

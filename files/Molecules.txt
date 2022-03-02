@@ -1,0 +1,19 @@
+Dichromate de Potassium*K2Cr2O7
+Dihydrogène*H2
+Dioxygène*O2
+Eau*H2O
+Dioxyde de carbon*CO2
+Monoxyde de carbone*CO
+Diazote*N2
+Dioxyde d'azote*NO2
+Dichlore*Cl2
+Dibrome*Br2
+Méthane*CH4
+Ammoniac*NH3
+Ammoniaque*NH3
+Glucose*C6H12O6
+Saccharose*C12H22O11
+Acide éthanoïque (acétique)*CH3-COOH
+Benzène*C6H6
+Acide benzoïque*C6H5-COOH
+Glycérol*CH2OH-CHOH-CH2OH
