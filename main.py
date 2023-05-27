@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from models import *
 
 # Structre des 50 premier Atomes
@@ -95,8 +97,9 @@ def lireMolecules():
 
             lineTable = line.strip().split("*")
             molecule = Molecule(lineTable[0], lineTable[1])
+            print(molecule.parseFormule())
             codeTable = molecule.parseFormule().split(' ') # Recupérer le code de la molecule et split sur scpace
-
+            
             for i in range(0, len(codeTable), 2): # Parcourir avec un pas de 2 pour recupérer les Symboles
                 item = checkAtome(codeTable[i], atomes)
                 if item != None:

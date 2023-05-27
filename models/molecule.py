@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 class Molecule:
     def __init__(self, name, formule):
@@ -10,7 +11,7 @@ class Molecule:
         rlt = 0
         for item in self.atomes:
             rlt += int(item.nombre) * float(item.masse)
-            print('\t- {} * {} = {}'.format(int(item.nombre), float(item.masse), rlt))
+            #print('\t- {} * {} = {}'.format(int(item.nombre), float(item.masse), rlt))
         return round(rlt, 1)
 
     
